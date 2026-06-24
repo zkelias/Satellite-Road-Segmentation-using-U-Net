@@ -118,7 +118,7 @@ Key takeaway:
 ## Author
 Zachary Elias  
 Clemson University  
-Computer Science/Computer Information Systems
+Computer Science / Computer Information Systems
 
 ---
 
