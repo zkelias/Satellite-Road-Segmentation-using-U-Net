@@ -61,10 +61,10 @@ Key takeaway:
 ## Visual Results
 
 ### Training Performance
-![Accuracy](results_graph/accuracy_graph.png)
+![Accuracy](result_graphs/accuracy_graph.png)
 
 ### IoU Performance
-![IoU](results_graph/iou_graph.png)
+![IoU](result_graphs/iou_graph.png)
 
 ---
 
@@ -74,7 +74,7 @@ Key takeaway:
 ![Payne Accuracy](predictions/Deepglobe_accuracy.png)
 
 ### Example 2 (DeepGlobe Dataset)
-![DeepGlobe IoU](predictions/DeepGlobe_iou.png)
+![DeepGlobe IoU](predictions/Deepglobe_iou.png)
 
 ---
 
