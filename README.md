@@ -70,10 +70,10 @@ Key takeaway:
 
 ## Prediction Examples
 
-### Example 1 (Payne Dataset)
+### Example 1 (Accuracy-Trained Model)
 ![Payne Accuracy](predictions/Deepglobe_accuracy.png)
 
-### Example 2 (DeepGlobe Dataset)
+### Example 2 (IoU-Trained Model)
 ![DeepGlobe IoU](predictions/Deepglobe_iou.png)
 
 ---
